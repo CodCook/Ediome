@@ -1,0 +1,11 @@
+node_modules
+.next
+.turbo
+dist
+build
+*.sqlite
+*.sqlite-journal
+.env
+.env.local
+public/media/*
+!public/media/.gitkeep

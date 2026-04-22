@@ -1,0 +1,140 @@
+{
+  "id": 7,
+  "title": "Energetic Conference Highlights",
+  "style": "fast_cuts",
+  "shots_json": "[{\"media_file_id\":22,\"template\":\"fade_slide\",\"duration\":2,\"caption\":\"Web Summit\",\"transition\":\"cut\"},{\"media_file_id\":18,\"template\":\"zoom_in\",\"duration\":1.5,\"caption\":\"Conference Speakers\",\"transition\":\"crossfade\"},{\"media_file_id\":19,\"template\":\"ken_burns\",\"duration\":1.5,\"caption\":\"Presentation Mode\",\"transition\":\"cut\"},{\"media_file_id\":21,\"template\":\"text_overlay\",\"duration\":2,\"caption\":\"Networking Time\",\"transition\":\"wipe\"},{\"media_file_id\":20,\"template\":\"split_reveal\",\"duration\":1.5,\"caption\":\"Attendees Engage\",\"transition\":\"crossfade\"},{\"media_file_id\":28,\"template\":\"zoom_in\",\"duration\":1.5,\"caption\":\"Innovative Students\",\"transition\":\"cut\"},{\"media_file_id\":24,\"template\":\"fade_slide\",\"duration\":2,\"caption\":\"Red Mascot Fun\",\"transition\":\"wipe\"},{\"media_file_id\":29,\"template\":\"ken_burns\",\"duration\":1.5,\"caption\":\"Elevator Selfie\",\"transition\":\"crossfade\"},{\"media_file_id\":22,\"template\":\"text_overlay\",\"duration\":1.5,\"caption\":\"Web Summit Energy\",\"transition\":\"cut\"},{\"media_file_id\":18,\"template\":\"split_reveal\",\"duration\":1.5,\"caption\":\"Speakers Engage\",\"transition\":\"wipe\"},{\"media_file_id\":19,\"template\":\"zoom_in\",\"duration\":1.5,\"caption\":\"Conference Insights\",\"transition\":\"crossfade\"},{\"media_file_id\":20,\"template\":\"fade_slide\",\"duration\":2,\"caption\":\"Attendee Experience\",\"transition\":\"cut\"},{\"media_file_id\":21,\"template\":\"ken_burns\",\"duration\":1.5,\"caption\":\"Networking Hub\",\"transition\":\"wipe\"},{\"media_file_id\":28,\"template\":\"text_overlay\",\"duration\":1.5,\"caption\":\"Student Innovation\",\"transition\":\"crossfade\"},{\"media_file_id\":24,\"template\":\"split_reveal\",\"duration\":1.5,\"caption\":\"Red Mascot Fun\",\"transition\":\"cut\"},{\"media_file_id\":29,\"template\":\"zoom_in\",\"duration\":1.5,\"caption\":\"Selfie Time\",\"transition\":\"wipe\"}]",
+  "music_mood": "energetic",
+  "aspect_ratio": "9:16",
+  "duration_seconds": 30,
+  "created_at": "2026-04-21 12:52:08",
+  "shots": [
+    {
+      "media_file_id": 22,
+      "template": "fade_slide",
+      "duration": 2,
+      "caption": "Web Summit",
+      "transition": "cut",
+      "public_path": "/media/de8b5b01-ae22-4388-b419-6a57eee9b25e.jpg"
+    },
+    {
+      "media_file_id": 18,
+      "template": "zoom_in",
+      "duration": 1.5,
+      "caption": "Conference Speakers",
+      "transition": "crossfade",
+      "public_path": "/media/829e0e83-e000-46e8-beb3-5d80ae7d7cfe.jpg"
+    },
+    {
+      "media_file_id": 19,
+      "template": "ken_burns",
+      "duration": 1.5,
+      "caption": "Presentation Mode",
+      "transition": "cut",
+      "public_path": "/media/bc3779b7-d3fe-4596-8f93-ca0f660e577e.jpg"
+    },
+    {
+      "media_file_id": 21,
+      "template": "text_overlay",
+      "duration": 2,
+      "caption": "Networking Time",
+      "transition": "wipe",
+      "public_path": "/media/abe6dbb5-20a2-4c23-a0c1-e8cbbf77abba.jpg"
+    },
+    {
+      "media_file_id": 20,
+      "template": "split_reveal",
+      "duration": 1.5,
+      "caption": "Attendees Engage",
+      "transition": "crossfade",
+      "public_path": "/media/eb396f87-c48e-4b91-972e-a713de5731d7.jpg"
+    },
+    {
+      "media_file_id": 28,
+      "template": "zoom_in",
+      "duration": 1.5,
+      "caption": "Innovative Students",
+      "transition": "cut",
+      "public_path": "/media/0eeb0529-9b94-4dab-a747-4f172d51f756.jpg"
+    },
+    {
+      "media_file_id": 24,
+      "template": "fade_slide",
+      "duration": 2,
+      "caption": "Red Mascot Fun",
+      "transition": "wipe",
+      "public_path": "/media/ece40a1b-bce8-4c02-9d0b-069ca4b35203.jpg"
+    },
+    {
+      "media_file_id": 29,
+      "template": "ken_burns",
+      "duration": 1.5,
+      "caption": "Elevator Selfie",
+      "transition": "crossfade",
+      "public_path": "/media/7b917489-e57f-43c3-97fe-ba1fda22bb72.jpg"
+    },
+    {
+      "media_file_id": 22,
+      "template": "text_overlay",
+      "duration": 1.5,
+      "caption": "Web Summit Energy",
+      "transition": "cut",
+      "public_path": "/media/de8b5b01-ae22-4388-b419-6a57eee9b25e.jpg"
+    },
+    {
+      "media_file_id": 18,
+      "template": "split_reveal",
+      "duration": 1.5,
+      "caption": "Speakers Engage",
+      "transition": "wipe",
+      "public_path": "/media/829e0e83-e000-46e8-beb3-5d80ae7d7cfe.jpg"
+    },
+    {
+      "media_file_id": 19,
+      "template": "zoom_in",
+      "duration": 1.5,
+      "caption": "Conference Insights",
+      "transition": "crossfade",
+      "public_path": "/media/bc3779b7-d3fe-4596-8f93-ca0f660e577e.jpg"
+    },
+    {
+      "media_file_id": 20,
+      "template": "fade_slide",
+      "duration": 2,
+      "caption": "Attendee Experience",
+      "transition": "cut",
+      "public_path": "/media/eb396f87-c48e-4b91-972e-a713de5731d7.jpg"
+    },
+    {
+      "media_file_id": 21,
+      "template": "ken_burns",
+      "duration": 1.5,
+      "caption": "Networking Hub",
+      "transition": "wipe",
+      "public_path": "/media/abe6dbb5-20a2-4c23-a0c1-e8cbbf77abba.jpg"
+    },
+    {
+      "media_file_id": 28,
+      "template": "text_overlay",
+      "duration": 1.5,
+      "caption": "Student Innovation",
+      "transition": "crossfade",
+      "public_path": "/media/0eeb0529-9b94-4dab-a747-4f172d51f756.jpg"
+    },
+    {
+      "media_file_id": 24,
+      "template": "split_reveal",
+      "duration": 1.5,
+      "caption": "Red Mascot Fun",
+      "transition": "cut",
+      "public_path": "/media/ece40a1b-bce8-4c02-9d0b-069ca4b35203.jpg"
+    },
+    {
+      "media_file_id": 29,
+      "template": "zoom_in",
+      "duration": 1.5,
+      "caption": "Selfie Time",
+      "transition": "wipe",
+      "public_path": "/media/7b917489-e57f-43c3-97fe-ba1fda22bb72.jpg"
+    }
+  ]
+}
