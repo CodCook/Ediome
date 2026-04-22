@@ -7,5 +7,7 @@ build
 *.sqlite-journal
 .env
 .env.local
+.env.*
+!.env.example
 public/media/*
 !public/media/.gitkeep
